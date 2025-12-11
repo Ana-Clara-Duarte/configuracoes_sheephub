@@ -1,4 +1,4 @@
-# Página de configurações SheepHub
+# Página de configurações (Projeto SheepHub)
 
 ![Screenshot do site](img-p/config-membros.png)
 
